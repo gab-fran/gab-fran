@@ -1,9 +1,6 @@
 <h1>Olá, eu sou o Gabriel👋</h1>
 
-- 🎓 Estudante apaixonado por tecnologia, robótica e programação
-- 🤖 Integrante de uma equipe de robótica da FRC, com experiência em projetos que unem criatividade e tecnologia
-- 💻 Meu foco é aprender mais sobre programação para construir soluções que impactem positivamente o mundo.
-- 🎯 Objetivo: Estudar Ciência da Computação na USP ou UFSCar.
+
 ##
 
 
