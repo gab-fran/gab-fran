@@ -6,34 +6,34 @@ Sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas**. Tenho p
 
 ## 💡 Sobre mim
 
-- 🤖 Membro da equipe de robótica **Steel Bulls**, participante da **FRC (FIRST Robotics Competition)**.
-- 🎓 Estudante dedicado, sempre buscando aprender algo novo e crescer em projetos práticos.
-- 💻 Atualmente estudando: **Java**, **Python** e **TypeScript**.
-- 🧠 Tenho experiência com **Arduino** e eletrônica básica para criação de protótipos e projetos robóticos.
-- 🌈 Gosto de ambientes colaborativos e de projetos que envolvam criatividade e impacto social.
-- 🌱 Sempre em busca de novos desafios para aplicar criatividade e aprender mais.
-- 📍 Localização: Sertãozinho, São Paulo - Brasil
+- 🤖 Membro da equipe **Steel Bulls** na **FRC (FIRST Robotics Competition)**
+- 🎓 Estudante dedicado, sempre buscando aprender e aplicar conhecimentos em projetos práticos
+- 🧠 Experiência com **Arduino** e eletrônica básica para protótipos robóticos
+- 🌈 Gosto de ambientes colaborativos e projetos com impacto social
+- 🌱 Buscando novos desafios para aplicar criatividade e aprender
+- 📍 Sertãozinho, São Paulo - Brasil
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-F24E1E?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-F24E1E?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-<a href="https://github.com/gab-fran">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gab-fran&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/gab-fran">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab-fran&layout=compact&langs_count=8&card_width=250&theme=transparent" />
-</a>
+
+<div class='container'>
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=gab-fran&show_icons=true&theme=transparent&?locale=pt_BR&hide_border=true" />
+&nbsp;
+&nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab-fran&layout=compact&langs_count=8&card_width=250&theme=transparent&?locale=pt_BR&hide_border=true" /></div>
+</div>
 
 ---
 
